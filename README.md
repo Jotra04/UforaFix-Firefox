@@ -4,7 +4,7 @@ The installation is not permanent, it will disapear upon restarting firefox.
 
 ## Install Guide
 1. Downloud the file
-1. Go to "![about:debugging](about:debugging)"
+1. Go to "about:debugging"
 1. Click on "Load Temporary Add-on"
 1. Go to file location
 1. Open UforaFix.js
