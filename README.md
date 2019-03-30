@@ -1,6 +1,6 @@
 # UforaFix-Firefox
 A Firefox addOn to fix ufora's layout on pages matching "\*://ufora.ugent.be/\*/viewContent/\*".
-The installation is not permanent, it will disapear upon restarting firefox.
+The installation is not permanent, it will disappear upon restarting firefox.
 
 ## Install Guide
 1. Downloud the file
