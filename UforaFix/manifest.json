@@ -1,0 +1,26 @@
+{
+
+  "manifest_version": 2,
+  "name": "UforaFix",
+  "version": "1.0",
+
+  "description": "Fixes layout on content pages in ufora.ugent.be",
+
+  "icons": {
+    "48": "icons/Ugent-48.png"
+  },
+  
+  "applications": {
+  "gecko": {
+	  "id": "uforafix@example.com"
+	}
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://ufora.ugent.be/*/viewContent/*"],
+      "js": ["UforaFix.js"]
+    }
+  ]
+
+}
